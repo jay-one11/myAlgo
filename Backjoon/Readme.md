@@ -5,11 +5,9 @@
 # Algorithm Study
 레벨 | 번호 | 제목
 :-: | :-: | :-:
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/13335) | 트럭
-<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1302](http://noj.am/1302) | 베스트셀러
-<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 소트인사이드
-<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호
-<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2
-<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2638](http://noj.am/2638) | 치즈
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11497](http://noj.am/11497) | 통나무 건너뛰기
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/1260) | DFS와BFS
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1302](http://noj.am/1276) | 게리맨더링
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 연구소
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/15686) | 치킨배달
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/15687) | 직사각형
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2638](http://noj.am/16926) | 배열돌리기

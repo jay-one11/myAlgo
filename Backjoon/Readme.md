@@ -24,6 +24,14 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [2839](http://noj.am/2839) | 도영이가 만든 맛있는 음식
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2912](http://noj.am/2912) | 백설공주와 일곱난장이
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1302](http://noj.am/1302) | 베스트셀러
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [13335](http://noj.am/13335) | 트럭
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 소트인사이드
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [16918](http://noj.am/16918) | 봄버맨
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [1992](http://noj.am/1992) | 쿼드트리
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2636](http://noj.am/2636) | 치즈
+
 
 
 

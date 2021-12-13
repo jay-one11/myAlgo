@@ -3,6 +3,8 @@
 <!-- Gold : 5(11), 4(12), 3(13), 2(14), 1(15) -->
 <!-- <img src="https://static.solved.ac/tier_small/*LEVEL*.svg" height="18px" /> | [*NO*](http://noj.am/*NO*) | *TITLE* -->
 # Algorithm Study
+
+2021 / 11월 까지
 레벨 | 번호 | 제목
 :-: | :-: | :-:
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/1260) | DFS와BFS

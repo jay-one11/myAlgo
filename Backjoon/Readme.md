@@ -13,4 +13,18 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [15686](http://noj.am/15686) | 치킨배달
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [15687](http://noj.am/15687) | 직사각형
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16926](http://noj.am/16926) | 배열돌리기
-<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [16935](http://noj.am/16935) | DFS와BFS
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [16935](http://noj.am/16935) | 배열돌리기3
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [17136](http://noj.am/17136) | 색종이 붙이기
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17406](http://noj.am/17406) | 배열돌리기 4
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2563](http://noj.am/2563) | 색종이
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [2564](http://noj.am/2564) | 경비원
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2567](http://noj.am/2567) | 색종이 2
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1706](http://noj.am/1706) | 크로스워드 만들기
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2804](http://noj.am/2804) | 설탕 배달
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [2839](http://noj.am/2839) | 도영이가 만든 맛있는 음식
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2912](http://noj.am/2912) | 백설공주와 일곱난장이
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1302](http://noj.am/1302) | 베스트셀러
+
+
+
+

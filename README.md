@@ -2,7 +2,7 @@
 
 코딩테스트 대비 온라인 저지 풀이 Repo
 
-* [Backjoon](#Backjoon), [SWExpert](#SWExpert), Jungol, Programmers
+* [Backjoon](#/Backjoon), [SWExpert](#/SWExpert), Jungol, Programmers
 * 주요 알고리즘 : 문자열, DFS, BFS, DP, Greedy 등
 
 

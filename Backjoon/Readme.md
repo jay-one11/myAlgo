@@ -31,6 +31,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/>| [1992](http://noj.am/1992) | 쿼드트리
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2636](http://noj.am/2636) | 치즈
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2563](http://noj.am/17406) | 
 
 
 
